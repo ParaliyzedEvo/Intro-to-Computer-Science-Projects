@@ -1,2 +1,1 @@
-# Intro-to-Computer-Science-Projects
-Projects I worked on last year (my first year in a coding class!)
+# Check out my website [here](https://paraliyzed.net/)!
